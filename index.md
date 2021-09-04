@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: Rosalyn Metz
 author_profile: true
 excerpt: "Librarian, technologist, partner, mom, yogi, and sometimes an aspiring trapeze artist."
