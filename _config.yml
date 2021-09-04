@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Rosalyn Metz
-email:
+email: rosalynmetz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Pronouns: she/her/hers
+  Librarian, technologist, partner, mom, yogi, and sometimes an aspiring trapeze artist.
 twitter_username: rosy1280
 github_username: rosy1280
 minimal_mistakes_skin: mint
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Rosalyn Metz"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Librarian, technologist, partner, mom, yogi, and sometimes an aspiring trapeze artist."
+  bio    : "My pronouns are she/her/hers"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
