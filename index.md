@@ -5,6 +5,7 @@ author_profile: true
 excerpt: "Librarian, technologist, partner, mom, yogi, and sometimes an aspiring trapeze artist."
 header:
   overlay_image: /assets/images/background.jpg
+  overlay_filter: 0.5
   show_overlay_excerpt: true
 ---
 Pronouns: *she/her/hers*
