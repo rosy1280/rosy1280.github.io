@@ -33,6 +33,7 @@ permalink: /curriculumvitae/
 ### Associate Dean, Library Technology and Digital Strategies, Emory University, Atlanta, Georgia, United States
 _2020 - Ongoing_  
 Provide leadership and vision for the enhancement, extension, integration and maintenance of the Libraries&#39; technology and tools in support of faculty and student teaching, learning, research and scholarship. Serves as the primary technology strategist for the libraries and collaborates across the university to ensure a flexible, scalable, and sustainable technology infrastructure enabling library services and innovation. Contributes to strategic and annual planning including development and implementation of major strategic initiatives; oversight of services, policies, and programs; resource allocation and management; and human resource planning and management.  
+
 #### Key Deliverables
 - Doubled the information technology division over a 2-year period.
 - Provided strategic vision for the implementation of a cohesive discovery layer for all library collections.
@@ -40,60 +41,55 @@ Provide leadership and vision for the enhancement, extension, integration and ma
 
 ### Director, Library Technology and Digital Strategies, Emory University, Atlanta, Georgia, United States 
 _2016 - 2019_  
-Provide leadership and vision for the enhancement, extension, integration and maintenance of the libraries&#39; technology and tools in support of faculty and student teaching, learning, research and scholarship. Serves as the primary technology strategist for the libraries and collaborates across the university to ensure a flexible, scalable, and sustainable technology infrastructure enabling library services and innovation.  
-_Key Deliverables_
+Provide leadership and vision for the enhancement, extension, integration and maintenance of the libraries&#39; technology and tools in support of faculty and student teaching, learning, research and scholarship. Serves as the primary technology strategist for the libraries and collaborates across the university to ensure a flexible, scalable, and sustainable technology infrastructure enabling library services and innovation.
+
+#### Key Deliverables
 - Doubled the information technology division over a 3-year period.
 - Provided strategic vision for the implementation of a single-point repository and a redesign of the libraries&#39; websites.
 
 ### Operations Manager, Stanford University Libraries, Stanford, California, United States 
+_2013 - 2016_  
+Ensured operational excellence across processes, policies and technologies necessary for successful and trusted preservation of digital content. Defined and managed the service support framework for the digital repository, including customer support, documentation, policies, processes, workflows, as well as planning, executing, and leading software development projects.
 
-_2013 - 2016_
->Ensured operational excellence across processes, policies and technologies necessary for successful and trusted preservation of digital content. Defined and managed the service support framework for the digital repository, including customer support, documentation, policies, processes, workflows, as well as planning, executing, and leading software development projects.
-
-_Key Deliverables_
+#### Key Deliverables
 - Assisted in establishing a strategic vision for Stanford&#39;s preservation repository.
 - Served as product manager for the development of workflow tools that increased the repository&#39;s ingest capacity.
 - Represented Stanford University Libraries within community-based infrastructure projects.
 
 ### Digital Project Manager, The George Washington University, Washington, District of Columbia, United States 
+_2012 - 2013_  
+Created new workflows for project planning, implementation, and support for library technology. Improved workflows for operational work including digitization and software development. This position was an 18-month term appointment.
 
-_2012 - 2013_
->Created new workflows for project planning, implementation, and support for library technology. Improved workflows for operational work including digitization and software development. This position was an 18-month term appointment.
-
-_Key Deliverables_
+#### Key Deliverables
 - Developed a method for estimating time and costs related to digitization projects.
 - Project managed software development for the library&#39;s new digital repository.
 - Identified methods for planning mini projects related to the library&#39;s website
 
 ### Systems Administrator for Curricular Support, Wheaton College, Norton, Massachusetts, United States 
+_2008 - 2011_  
+Collaborated with departmental leadership to create a technology plan for the library and academic computing. Led implementation projects and created workflows, processes, and policies for new systems.
 
-_2008 - 2011_
->Collaborated with departmental leadership to create a technology plan for the library and academic computing. Led implementation projects and created workflows, processes, and policies for new systems.
-
-_Key Deliverables_
+#### Key Deliverables
 - Migrated the college&#39;s learning management system from Blackboard to Moodle.
 - Implemented MediaWiki, Wordpress, and similar tools for faculty use in teaching and research.
 
 ### Electronic Resources Specialist, The George Washington University, Washington, District of Columbia, United States 
+_2002 - 2004_  
+Oversaw public computing for the library and served as the reference and instruction department&#39;s liaison to library technology. Oversaw the student workforce that maintained the public computing.  Served as the coordinator for the reference desk including answering in-depth research questions for students and faculty.
 
-_2002 - 2004_
->Oversaw public computing for the library and served as the reference and instruction department&#39;s liaison to library technology. Oversaw the student workforce that maintained the public computing.  Served as the coordinator for the reference desk including answering in-depth research questions for students and faculty.
-
-_Key Deliverables_
+#### Key Deliverables
 - Assisted Reference Librarians in the creation, execution, and assessment of Bibliographic Instruction Sessions.
 - Created guides and finding aids for use at the reference desk and during Bibliographic Instruction Sessions.
 
 ## Non-Academic Experience
 
 ### Project Manager, Viget Labs, LLC, Falls Church, Virginia, United States 
-
 _2011 - 2012_
 - Oversaw development, design, and marketing for a diverse client base.
 - Worked with project teams and clients to determine goals, milestones, and deliverables for projects.
 - Collaborated with sales to develop scope, schedules, and cost for a variety of web projects.
 
 ### SFX/Verde Implementation Librarian, Ex Libris, Inc., Newton, Massachusetts, United States 
-
 _2006 - 2008_
 - Developed and administered training, both in-person and via the web, throughout North America.
 - Created project plans, training, and goals that improved implementation projects. Worked with support, development, and product management to improve software.
