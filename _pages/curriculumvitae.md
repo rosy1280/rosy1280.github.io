@@ -34,8 +34,7 @@ permalink: /curriculumvitae/
 ### Associate Dean, Library Technology and Digital Strategies, Emory University, Atlanta, Georgia, United States
 
 _2020 - Ongoing_
-> 
-Provide leadership and vision for the enhancement, extension, integration and maintenance of the Libraries&#39; technology and tools in support of faculty and student teaching, learning, research and scholarship. Serves as the primary technology strategist for the libraries and collaborates across the university to ensure a flexible, scalable, and sustainable technology infrastructure enabling library services and innovation. Contributes to strategic and annual planning including development and implementation of major strategic initiatives; oversight of services, policies, and programs; resource allocation and management; and human resource planning and management.
+> Provide leadership and vision for the enhancement, extension, integration and maintenance of the Libraries&#39; technology and tools in support of faculty and student teaching, learning, research and scholarship. Serves as the primary technology strategist for the libraries and collaborates across the university to ensure a flexible, scalable, and sustainable technology infrastructure enabling library services and innovation. Contributes to strategic and annual planning including development and implementation of major strategic initiatives; oversight of services, policies, and programs; resource allocation and management; and human resource planning and management.
 
 #### Key Deliverables
 
@@ -46,8 +45,7 @@ Provide leadership and vision for the enhancement, extension, integration and ma
 ### Director, Library Technology and Digital Strategies, Emory University, Atlanta, Georgia, United States 
 
 _2016 - 2019_
->
-Provide leadership and vision for the enhancement, extension, integration and maintenance of the libraries&#39; technology and tools in support of faculty and student teaching, learning, research and scholarship. Serves as the primary technology strategist for the libraries and collaborates across the university to ensure a flexible, scalable, and sustainable technology infrastructure enabling library services and innovation.
+>Provide leadership and vision for the enhancement, extension, integration and maintenance of the libraries&#39; technology and tools in support of faculty and student teaching, learning, research and scholarship. Serves as the primary technology strategist for the libraries and collaborates across the university to ensure a flexible, scalable, and sustainable technology infrastructure enabling library services and innovation.
 
 _Key Deliverables_
 
@@ -57,8 +55,7 @@ _Key Deliverables_
 ### Operations Manager, Stanford University Libraries, Stanford, California, United States 
 
 _2013 - 2016_
->
-Ensured operational excellence across processes, policies and technologies necessary for successful and trusted preservation of digital content. Defined and managed the service support framework for the digital repository, including customer support, documentation, policies, processes, workflows, as well as planning, executing, and leading software development projects.
+>Ensured operational excellence across processes, policies and technologies necessary for successful and trusted preservation of digital content. Defined and managed the service support framework for the digital repository, including customer support, documentation, policies, processes, workflows, as well as planning, executing, and leading software development projects.
 
 _Key Deliverables_
 
@@ -69,8 +66,7 @@ _Key Deliverables_
 ### Digital Project Manager, The George Washington University, Washington, District of Columbia, United States 
 
 _2012 - 2013_
->
-Created new workflows for project planning, implementation, and support for library technology. Improved workflows for operational work including digitization and software development. This position was an 18-month term appointment.
+>Created new workflows for project planning, implementation, and support for library technology. Improved workflows for operational work including digitization and software development. This position was an 18-month term appointment.
 
 _Key Deliverables_
 
@@ -81,8 +77,7 @@ _Key Deliverables_
 ### Systems Administrator for Curricular Support, Wheaton College, Norton, Massachusetts, United States 
 
 _2008 - 2011_
->
-Collaborated with departmental leadership to create a technology plan for the library and academic computing. Led implementation projects and created workflows, processes, and policies for new systems.
+>Collaborated with departmental leadership to create a technology plan for the library and academic computing. Led implementation projects and created workflows, processes, and policies for new systems.
 
 _Key Deliverables_
 
@@ -92,8 +87,7 @@ _Key Deliverables_
 ### Electronic Resources Specialist, The George Washington University, Washington, District of Columbia, United States 
 
 _2002 - 2004_
->
-Oversaw public computing for the library and served as the reference and instruction department&#39;s liaison to library technology. Oversaw the student workforce that maintained the public computing.  Served as the coordinator for the reference desk including answering in-depth research questions for students and faculty.
+>Oversaw public computing for the library and served as the reference and instruction department&#39;s liaison to library technology. Oversaw the student workforce that maintained the public computing.  Served as the coordinator for the reference desk including answering in-depth research questions for students and faculty.
 
 _Key Deliverables_
 
@@ -125,100 +119,84 @@ _2006 - 2008_
 ### Chair, Samvera Board 
 
 _Summer 2019 - Summer 2021_
->
-Samvera is a versatile and feature rich repository solution that is being used by institutions worldwide to provide access to their digital content. The chair of the Samvera Board sets the agenda for Board and Partner Meetings, works with the Community Manager to raise funds, and coordinates with the organizational home staff to ensure the project is properly stewarded. The first year of the term the incumbent serves as the chair elect, while the final year the incumbent serves as chair. The Chair of the Board also serves on the Board&#39;s finance subcommittee.
+>Samvera is a versatile and feature rich repository solution that is being used by institutions worldwide to provide access to their digital content. The chair of the Samvera Board sets the agenda for Board and Partner Meetings, works with the Community Manager to raise funds, and coordinates with the organizational home staff to ensure the project is properly stewarded. The first year of the term the incumbent serves as the chair elect, while the final year the incumbent serves as chair. The Chair of the Board also serves on the Board&#39;s finance subcommittee.
 
 ### Advisory Committee&#39;s Board Representative, The Advisory Committee has two Board 
 
 _Spring 2019 - Ongoing_
->
-The Academic Preservation Trust (APTrust) is committed to the creation and management of a sustainable environment for digital preservation. Representatives help set the agenda for the Advisory Committee Meetings and provides assistance to the executive director in preparing for Board Meetings.
+>The Academic Preservation Trust (APTrust) is committed to the creation and management of a sustainable environment for digital preservation. Representatives help set the agenda for the Advisory Committee Meetings and provides assistance to the executive director in preparing for Board Meetings.
 
 **APTrust Advisory Committee Member**
 
 _Spring 2019 - Ongoing_
->
-The Advisory Committee provides advice to the executive director of APTrust and recommendations to the Board.
+>The Advisory Committee provides advice to the executive director of APTrust and recommendations to the Board.
 
 ### Chair, Fedora Steering 
 
 _Summer 2018 - Fall 2020_
->
-Fedora is a digital asset management architecture upon which institutional repositories, digital archives, and digital library systems might be built. The chair of Fedora Steering sets the agenda for Steering and Leadership meetings, works with program staff to raise funds, and coordinates with the organizational home staff to ensure the project is properly stewarded. The first year of the term the incumbent serves as the chair elect, while the final year the incumbent serves as chair.
+>Fedora is a digital asset management architecture upon which institutional repositories, digital archives, and digital library systems might be built. The chair of Fedora Steering sets the agenda for Steering and Leadership meetings, works with program staff to raise funds, and coordinates with the organizational home staff to ensure the project is properly stewarded. The first year of the term the incumbent serves as the chair elect, while the final year the incumbent serves as chair.
 
 ### Member, Samvera Board 
 
 _Summer 2018 - Ongoing_
->
-The Board provides advice and assistance for the various software projects associated with the community. The Board also sets and oversees the budget, assists in organizing events for the community, mediates various challenges and opportunities that arise within the community, and generally stewards the community.
+>The Board provides advice and assistance for the various software projects associated with the community. The Board also sets and oversees the budget, assists in organizing events for the community, mediates various challenges and opportunities that arise within the community, and generally stewards the community.
 
 ### Chair, Samvera Contribution Model Working Group 
 
 _Summer 2018 - Fall 2018_
->
-In order to support centralized staffing, the Samvera Community needed a strategy to raise significant funds on an ongoing basis. Partner discussions supported the idea of a required contribution model that equitably distributes the burden. The contribution model working group identified a contribution model for the community.
+>In order to support centralized staffing, the Samvera Community needed a strategy to raise significant funds on an ongoing basis. Partner discussions supported the idea of a required contribution model that equitably distributes the burden. The contribution model working group identified a contribution model for the community.
 
 ### Member, OCFL Editorial Group 
 
 _Spring 2018 - Ongoing_
->
-The Oxford Common File Layout describes an application-independent approach to the storage of digital information in a structured, transparent, and predictable manner. The Members of the Editorial Group create, update, and maintain the specification.
->
-Co-Founder, Library Technology Leadership Meeting provides an opportunity for library technology leaders to explore the intersection of management, leadership and the future of libraries within the context of technology creation and support.
+>The Oxford Common File Layout describes an application-independent approach to the storage of digital information in a structured, transparent, and predictable manner. The Members of the Editorial Group create, update, and maintain the specification.
+
+>Co-Founder, Library Technology Leadership Meeting provides an opportunity for library technology leaders to explore the intersection of management, leadership and the future of libraries within the context of technology creation and support.
 
 ### Member NDSA Levels of Preservation Group 
 
 _Spring 2018 - Spring 2021_
->
-The Levels of Digital Preservation are a tiered set of recommendations for how organizations should begin to build or enhance their digital preservation activities. Served as a member of the Levels of Preservation Assessment Group and the Curatorial Group.
+>The Levels of Digital Preservation are a tiered set of recommendations for how organizations should begin to build or enhance their digital preservation activities. Served as a member of the Levels of Preservation Assessment Group and the Curatorial Group.
 
 ### Co-Chair, Samvera Governance Working Group 
 
 _Fall 2017 - Spring 2018_
->
-The Samvera Governance Working Group created a sustainable Governance model for the management and oversight of the Samvera Community and related technologies.
+>The Samvera Governance Working Group created a sustainable Governance model for the management and oversight of the Samvera Community and related technologies.
 
 ### Member, Fedora Steering 
 
 _Summer 2017 - Ongoing_
->
-Fedora Steering oversees major budget and organizational decisions for the staff, community, and software.
+>Fedora Steering oversees major budget and organizational decisions for the staff, community, and software.
 
 ### Member, Fedora Leaders 
 
 _Summer 2016 - Ongoing_
->
-Fedora Leaders oversee the direction of the software.
+>Fedora Leaders oversee the direction of the software.
 
 ### Consultant, DPN Program Directions Committee 
 
 _Spring 2016 - Spring 2018_
->
-The Digital Preservation Network (DPN) was a membership organization focused on developing solutions to meet the challenges of long-term preservation of academic and cultural heritage digital assets. The DPN Program Directions Committee was established by the DPN Board to determine what services DPN should offer to its members moving forward.
+>The Digital Preservation Network (DPN) was a membership organization focused on developing solutions to meet the challenges of long-term preservation of academic and cultural heritage digital assets. The DPN Program Directions Committee was established by the DPN Board to determine what services DPN should offer to its members moving forward.
 
 ### Co-Chair, DPN Member Pilot 
 
 _Spring 2014 - Spring 2015_
->
-In 2014 DPN pulled together a pilot initiative where a select number of members deposited content into DPN. The two Co-Chairs oversaw the pilot and provided a report to the DPN Board on next steps for the developing the service.
+>In 2014 DPN pulled together a pilot initiative where a select number of members deposited content into DPN. The two Co-Chairs oversaw the pilot and provided a report to the DPN Board on next steps for the developing the service.
 
 ### Member, DPN Technical Team 
 
 _Summer 2013 - Spring 2016_
->
-The DPN Technical Team developed the technology that underpinned the DPN service.
+>The DPN Technical Team developed the technology that underpinned the DPN service.
 
 ### Founding Member, LibTechWomen 
 
 _Spring 2012 - Ongoing_
->
-LibTechWomen is a supportive space for women and their friends to network, develop skills, build confidence, and lead positive change. Working with a group of women, founded the organization and set up channels for women to connect.
+>LibTechWomen is a supportive space for women and their friends to network, develop skills, build confidence, and lead positive change. Working with a group of women, founded the organization and set up channels for women to connect.
 
 ### Co-Chair, HELIN Library Consortium ILS Task Force 
 
 _Spring 2010 - Spring 2011_
->
-The ILS Task Force created a survey to measure the usage and satisfaction of the current ILS, which is a turnkey Innovative Interfaces Inc. Release 2009B 1.1 system. The survey focused on the major modules, functions, and interfaces of the system.
+>The ILS Task Force created a survey to measure the usage and satisfaction of the current ILS, which is a turnkey Innovative Interfaces Inc. Release 2009B 1.1 system. The survey focused on the major modules, functions, and interfaces of the system.
 
 # Grants
 
