@@ -25,7 +25,6 @@ permalink: /curriculumvitae/
 
 - Certified ScrumMaster, Month / Year Originally Conferred: June 2015, Scrum Alliance
 
-
 # Professional Experience
 
 ## Academic Experience
