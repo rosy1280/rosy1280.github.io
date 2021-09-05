@@ -38,13 +38,13 @@ permalink: /curriculumvitae/
 
 ## Academic Experience
 
-###Associate Dean, Library Technology and Digital Strategies, Emory University, Atlanta, Georgia, United States
+### Associate Dean, Library Technology and Digital Strategies, Emory University, Atlanta, Georgia, United States
 
->2020 - Ongoing_
+>2020 - Ongoing
 > 
 >Provide leadership and vision for the enhancement, extension, integration and maintenance of the Libraries&#39; technology and tools in support of faculty and student teaching, learning, research and scholarship. Serves as the primary technology strategist for the libraries and collaborates across the university to ensure a flexible, scalable, and sustainable technology infrastructure enabling library services and innovation. Contributes to strategic and annual planning including development and implementation of major strategic initiatives; oversight of services, policies, and programs; resource allocation and management; and human resource planning and management.
 
-####Key Deliverables
+#### Key Deliverables
 
 - Doubled the information technology division over a 2-year period.
 - Provided strategic vision for the implementation of a cohesive discovery layer for all library collections.
