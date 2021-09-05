@@ -119,85 +119,85 @@ _2006 - 2008_
 ## Summer 2019 - Summer 2021
 
 ### Chair, Samvera Board 
->Samvera is a versatile and feature rich repository solution that is being used by institutions worldwide to provide access to their digital content. The chair of the Samvera Board sets the agenda for Board and Partner Meetings, works with the Community Manager to raise funds, and coordinates with the organizational home staff to ensure the project is properly stewarded. The first year of the term the incumbent serves as the chair elect, while the final year the incumbent serves as chair. The Chair of the Board also serves on the Board&#39;s finance subcommittee.
+Samvera is a versatile and feature rich repository solution that is being used by institutions worldwide to provide access to their digital content. The chair of the Samvera Board sets the agenda for Board and Partner Meetings, works with the Community Manager to raise funds, and coordinates with the organizational home staff to ensure the project is properly stewarded. The first year of the term the incumbent serves as the chair elect, while the final year the incumbent serves as chair. The Chair of the Board also serves on the Board&#39;s finance subcommittee.
 
 ## Spring 2019 - Ongoing
 
 ### Advisory Committee's Board Representative, The Advisory Committee has two Board 
->The Academic Preservation Trust (APTrust) is committed to the creation and management of a sustainable environment for digital preservation. Representatives help set the agenda for the Advisory Committee Meetings and provides assistance to the executive director in preparing for Board Meetings.
+The Academic Preservation Trust (APTrust) is committed to the creation and management of a sustainable environment for digital preservation. Representatives help set the agenda for the Advisory Committee Meetings and provides assistance to the executive director in preparing for Board Meetings.
 
 ## Spring 2019 - Ongoing
 
 ### APTrust Advisory Committee Member
->The Advisory Committee provides advice to the executive director of APTrust and recommendations to the Board.
+The Advisory Committee provides advice to the executive director of APTrust and recommendations to the Board.
 
 ## Summer 2018 - Fall 2020
 
 ### Chair, Fedora Steering 
->Fedora is a digital asset management architecture upon which institutional repositories, digital archives, and digital library systems might be built. The chair of Fedora Steering sets the agenda for Steering and Leadership meetings, works with program staff to raise funds, and coordinates with the organizational home staff to ensure the project is properly stewarded. The first year of the term the incumbent serves as the chair elect, while the final year the incumbent serves as chair.
+Fedora is a digital asset management architecture upon which institutional repositories, digital archives, and digital library systems might be built. The chair of Fedora Steering sets the agenda for Steering and Leadership meetings, works with program staff to raise funds, and coordinates with the organizational home staff to ensure the project is properly stewarded. The first year of the term the incumbent serves as the chair elect, while the final year the incumbent serves as chair.
 
 ## Summer 2018 - Ongoing
 
 ### Member, Samvera Board 
->The Board provides advice and assistance for the various software projects associated with the community. The Board also sets and oversees the budget, assists in organizing events for the community, mediates various challenges and opportunities that arise within the community, and generally stewards the community.
+The Board provides advice and assistance for the various software projects associated with the community. The Board also sets and oversees the budget, assists in organizing events for the community, mediates various challenges and opportunities that arise within the community, and generally stewards the community.
 
 ## Summer 2018 - Fall 2018
 
 ### Chair, Samvera Contribution Model Working Group 
->In order to support centralized staffing, the Samvera Community needed a strategy to raise significant funds on an ongoing basis. Partner discussions supported the idea of a required contribution model that equitably distributes the burden. The contribution model working group identified a contribution model for the community.
+In order to support centralized staffing, the Samvera Community needed a strategy to raise significant funds on an ongoing basis. Partner discussions supported the idea of a required contribution model that equitably distributes the burden. The contribution model working group identified a contribution model for the community.
 
 ## Spring 2018 - Ongoing
 
 ### Member, OCFL Editorial Group 
->The Oxford Common File Layout describes an application-independent approach to the storage of digital information in a structured, transparent, and predictable manner. The Members of the Editorial Group create, update, and maintain the specification.
+The Oxford Common File Layout describes an application-independent approach to the storage of digital information in a structured, transparent, and predictable manner. The Members of the Editorial Group create, update, and maintain the specification.
 
 ### Co-Founder, Library Technology Leadership Meeting 
-> The Library Technology Leadership Meeting provides an opportunity for library technology leaders to explore the intersection of management, leadership and the future of libraries within the context of technology creation and support.
+The Library Technology Leadership Meeting provides an opportunity for library technology leaders to explore the intersection of management, leadership and the future of libraries within the context of technology creation and support.
 
 ## Spring 2018 - Spring 2021
 
 ### Member NDSA Levels of Preservation Group 
->The Levels of Digital Preservation are a tiered set of recommendations for how organizations should begin to build or enhance their digital preservation activities. Served as a member of the Levels of Preservation Assessment Group and the Curatorial Group.
+The Levels of Digital Preservation are a tiered set of recommendations for how organizations should begin to build or enhance their digital preservation activities. Served as a member of the Levels of Preservation Assessment Group and the Curatorial Group.
 
 ## Fall 2017 - Spring 2018
 
 ### Co-Chair, Samvera Governance Working Group 
->The Samvera Governance Working Group created a sustainable Governance model for the management and oversight of the Samvera Community and related technologies.
+The Samvera Governance Working Group created a sustainable Governance model for the management and oversight of the Samvera Community and related technologies.
 
 ## Summer 2017 - Ongoing
 
 ### Member, Fedora Steering 
->Fedora Steering oversees major budget and organizational decisions for the staff, community, and software.
+Fedora Steering oversees major budget and organizational decisions for the staff, community, and the Fedora Repository software.
 
 ## Summer 2016 - Ongoing
 
 ### Member, Fedora Leaders 
->Fedora Leaders oversee the direction of the software.
+Fedora Leaders oversees the direction of the Fedora Repository software.
 
 ## Spring 2016 - Spring 2018
 
 ### Consultant, DPN Program Directions Committee 
->The Digital Preservation Network (DPN) was a membership organization focused on developing solutions to meet the challenges of long-term preservation of academic and cultural heritage digital assets. The DPN Program Directions Committee was established by the DPN Board to determine what services DPN should offer to its members moving forward.
+The Digital Preservation Network (DPN) was a membership organization focused on developing solutions to meet the challenges of long-term preservation of academic and cultural heritage digital assets. The DPN Program Directions Committee was established by the DPN Board to determine what services DPN should offer to its members moving forward.
 
 ## Spring 2014 - Spring 2015
 
 ### Co-Chair, DPN Member Pilot 
->In 2014 DPN pulled together a pilot initiative where a select number of members deposited content into DPN. The two Co-Chairs oversaw the pilot and provided a report to the DPN Board on next steps for the developing the service.
+In 2014 DPN pulled together a pilot initiative where a select number of members deposited content into DPN. The two Co-Chairs oversaw the pilot and provided a report to the DPN Board on next steps for the developing the service.
 
 ## Summer 2013 - Spring 2016
 
 ### Member, DPN Technical Team 
->The DPN Technical Team developed the technology that underpinned the DPN service.
+The DPN Technical Team developed the technology that underpinned the DPN service.
 
 ## Spring 2012 - Ongoing
 
 ### Founding Member, LibTechWomen 
->LibTechWomen is a supportive space for women and their friends to network, develop skills, build confidence, and lead positive change. Working with a group of women, founded the organization and set up channels for women to connect.
+LibTechWomen is a supportive space for women and their friends to network, develop skills, build confidence, and lead positive change. Working with a group of women, founded the organization and set up channels for women to connect.
 
 ## Spring 2010 - Spring 2011
 
 ### Co-Chair, HELIN Library Consortium ILS Task Force 
->The ILS Task Force created a survey to measure the usage and satisfaction of the current ILS, which is a turnkey Innovative Interfaces Inc. Release 2009B 1.1 system. The survey focused on the major modules, functions, and interfaces of the system.
+The ILS Task Force created a survey to measure the usage and satisfaction of the current ILS, which is a turnkey Innovative Interfaces Inc. Release 2009B 1.1 system. The survey focused on the major modules, functions, and interfaces of the system.
 
 # Grants
 
