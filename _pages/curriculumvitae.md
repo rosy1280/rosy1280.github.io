@@ -12,11 +12,11 @@ permalink: /curriculumvitae/
 
 # Education
 
->2006 M.L.I.S, Library and Information Science, University of North Carolina, Chapel Hill, North Carolina, United States. 
+>2006. M.L.I.S, Library and Information Science, University of North Carolina, Chapel Hill, North Carolina, United States. 
 > 
 >Dissertation: [Conducting Online Research: Undergraduate Preferences of Sources](https://cdr.lib.unc.edu/concern/masters_papers/n583xz84q)
 
->2002 B.A., Political Science, The George Washington University, Washington, District of Columbia, United States.
+>2002. B.A., Political Science, The George Washington University, Washington, District of Columbia, United States.
 
 ## Post-Graduate Training
 
@@ -40,7 +40,7 @@ permalink: /curriculumvitae/
 
 ### Associate Dean, Library Technology and Digital Strategies, Emory University, Atlanta, Georgia, United States
 
->2020 - Ongoing
+_2020 - Ongoing_
 > 
 >Provide leadership and vision for the enhancement, extension, integration and maintenance of the Libraries&#39; technology and tools in support of faculty and student teaching, learning, research and scholarship. Serves as the primary technology strategist for the libraries and collaborates across the university to ensure a flexible, scalable, and sustainable technology infrastructure enabling library services and innovation. Contributes to strategic and annual planning including development and implementation of major strategic initiatives; oversight of services, policies, and programs; resource allocation and management; and human resource planning and management.
 
