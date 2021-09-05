@@ -2,6 +2,8 @@
 title: "Curriculum Vitae"
 sitemap: true
 permalink: /curriculumvitae/
+toc: true
+toc_sticky: true
 ---
 # Education
 
