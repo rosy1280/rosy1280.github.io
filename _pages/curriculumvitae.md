@@ -12,11 +12,10 @@ permalink: /curriculumvitae/
 
 # Education
 
-_2006_ M.L.I.S, Library and Information Science, University of North Carolina, Chapel Hill, North Carolina, United States 
+>_2006_ M.L.I.S, Library and Information Science, University of North Carolina, Chapel Hill, North Carolina, United States 
+>Dissertation: [Conducting Online Research: Undergraduate Preferences of Sources](https://cdr.lib.unc.edu/concern/masters_papers/n583xz84q)
 
-Dissertation: [Conducting Online Research: Undergraduate Preferences of Sources](https://cdr.lib.unc.edu/concern/masters_papers/n583xz84q)
-
-_2002_ B.A., Political Science, The George Washington University, Washington, District of Columbia, United States
+>_2002_ B.A., Political Science, The George Washington University, Washington, District of Columbia, United States
 
 ## Post-Graduate Training
 
