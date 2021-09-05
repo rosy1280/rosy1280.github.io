@@ -83,6 +83,9 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rosy1280"
 
+atom_feed:
+  hide: true
+  
 defaults:
   # _pages
   - scope:
