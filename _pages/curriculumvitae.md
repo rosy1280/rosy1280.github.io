@@ -20,31 +20,31 @@ permalink: /curriculumvitae/
 
 ## Post-Graduate Training
 
-Internship, Duke University Libraries, E-Resources Intern, Durham, North Carolina, United States, January 2006, June 2006
+>Internship, Duke University Libraries, E-Resources Intern, Durham, North Carolina, United States, January 2006, June 2006
 
-Internship, Duke University Libraries, Reference Intern, Durham, North Carolina, United States, September 2005, June 2006
+>Internship, Duke University Libraries, Reference Intern, Durham, North Carolina, United States, September 2005, June 2006
 
-Internship, Duke University Libraries, Instruction Intern, Durham, North Carolina, United States, September 2004, August 2005
+>Internship, Duke University Libraries, Instruction Intern, Durham, North Carolina, United States, September 2004, August 2005
 
-Fellowship, University of California, Library Senior Fellow, Los Angeles, California, United States, August 2018, August 2018
+>Fellowship, University of California, Library Senior Fellow, Los Angeles, California, United States, August 2018, August 2018
 
-Fellowship, National Institute for Technology in Liberal Education (NITLE), Technology, Cloud Computing, January 2009, December 2009
+>Fellowship, National Institute for Technology in Liberal Education (NITLE), Technology, Cloud Computing, January 2009, December 2009
 
 ## Professional Licensures &amp; Certifications
 
-Certified ScrumMaster, Month / Year Originally Conferred: June 2015, Scrum Alliance
+>Certified ScrumMaster, Month / Year Originally Conferred: June 2015, Scrum Alliance
 
 # Professional Experience
 
 ## Academic Experience
 
-_**Associate Dean, Library Technology and Digital Strategies, Emory University, Atlanta, Georgia, United States**_
+###Associate Dean, Library Technology and Digital Strategies, Emory University, Atlanta, Georgia, United States
 
-_2020 - Ongoing_
+>2020 - Ongoing_
+> 
+>Provide leadership and vision for the enhancement, extension, integration and maintenance of the Libraries&#39; technology and tools in support of faculty and student teaching, learning, research and scholarship. Serves as the primary technology strategist for the libraries and collaborates across the university to ensure a flexible, scalable, and sustainable technology infrastructure enabling library services and innovation. Contributes to strategic and annual planning including development and implementation of major strategic initiatives; oversight of services, policies, and programs; resource allocation and management; and human resource planning and management.
 
-Provide leadership and vision for the enhancement, extension, integration and maintenance of the Libraries&#39; technology and tools in support of faculty and student teaching, learning, research and scholarship. Serves as the primary technology strategist for the libraries and collaborates across the university to ensure a flexible, scalable, and sustainable technology infrastructure enabling library services and innovation. Contributes to strategic and annual planning including development and implementation of major strategic initiatives; oversight of services, policies, and programs; resource allocation and management; and human resource planning and management.
-
-_Key Deliverables_
+####Key Deliverables
 
 - Doubled the information technology division over a 2-year period.
 - Provided strategic vision for the implementation of a cohesive discovery layer for all library collections.
