@@ -13,10 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+locale: "en-US"
 title: Rosalyn Metz
 email: rosalynmetz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Librarian, technologist, partner, mom, yogi, and sometimes an aspiring trapeze artist.
+url: "https://rosalynmetz.com"
+repository: "rosy1280/rosy1280.github.io"
+masthead_title: " "
 twitter_username: rosy1280
 github_username: rosy1280
 minimal_mistakes_skin: contrast
@@ -59,7 +63,11 @@ author:
   name   : "Rosalyn Metz"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My pronouns are she/her/hers"
+  location  : "Decatur, GA"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:rosalynmetz@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.rosalynmetz.com"
