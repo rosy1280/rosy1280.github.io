@@ -3,8 +3,6 @@ title: "Curriculum Vitae"
 sitemap: true
 layout: single
 permalink: /curriculumvitae/
-toc: true
-toc_sticky: true
 ---
 # Education
 
