@@ -99,12 +99,6 @@ _2006 - 2008_
 
 # Professional Membership and Leadership
 
-## Summer 2021 - Summer 2021
-
-### Resources Practitioner Workshop Participant, It Takes a Village in Practice 
-
-In 2020, IMLS funded a second phase of It Takes a Village work, ITAV In Practice, which will create and pilot an adaptable set of tools for practical use in planning and managing sustainability for open source software (OSS) initiatives serving cultural and scientific heritage organizations. The Resources Workshop was designed to provide feedback and ideas to grant project on materials and tools produced to address resourcing issues in open source software. 
-
 ## Summer 2019 - Summer 2021
 
 ### Chair, Samvera Board 
