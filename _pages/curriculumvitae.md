@@ -99,6 +99,12 @@ _2006 - 2008_
 
 # Professional Membership and Leadership
 
+## Summer 2021 - Summer 2021
+
+### Resources Practitioner Workshop Participant, It Takes a Village in Practice 
+
+In 2020, IMLS funded a second phase of It Takes a Village work, ITAV In Practice, which will create and pilot an adaptable set of tools for practical use in planning and managing sustainability for open source software (OSS) initiatives serving cultural and scientific heritage organizations. The Resources Workshop was designed to provide feedback and ideas to grant project on materials and tools produced to address resourcing issues in open source software. 
+
 ## Summer 2019 - Summer 2021
 
 ### Chair, Samvera Board 
@@ -119,10 +125,10 @@ The Advisory Committee provides advice to the executive director of APTrust and 
 ### Chair, Fedora Steering 
 Fedora is a digital asset management architecture upon which institutional repositories, digital archives, and digital library systems might be built. The chair of Fedora Steering sets the agenda for Steering and Leadership meetings, works with program staff to raise funds, and coordinates with the organizational home staff to ensure the project is properly stewarded. The first year of the term the incumbent serves as the chair elect, while the final year the incumbent serves as chair.
 
-## Summer 2018 - Ongoing
+## Summer 2018 - Summer 2024
 
 ### Member, Samvera Board 
-The Board provides advice and assistance for the various software projects associated with the community. The Board also sets and oversees the budget, assists in organizing events for the community, mediates various challenges and opportunities that arise within the community, and generally stewards the community.
+The Board provides advice and assistance for the various software projects associated with the community. The Board also sets and oversees the budget, assists in organizing events for the community, mediates various challenges and opportunities that arise within the community, and generally stewards the community. Board members are elected to three year terms and are limited to two consecutive terms. Re-elected to the Board in the Summer of 2021.
 
 ## Summer 2018 - Fall 2018
 
