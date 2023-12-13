@@ -2,7 +2,7 @@
 layout: single
 title: Rosalyn Metz
 author_profile: true
-excerpt: "Librarian, technologist, partner, mom, yogi, and sometimes an aspiring trapeze artist."
+excerpt: "Technologist in higher education and libraries."
 header:
   overlay_image: /assets/images/background.jpg
   overlay_filter: 0.5
